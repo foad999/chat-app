@@ -1,0 +1,25 @@
+.container{
+    background-color: #b6bfc288;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    height: 40px;
+}
+.container h1{
+    padding: 0px 50px;
+}
+.container a{
+    margin-right: 30px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #f7f7f7;
+    background-color: #3d7b8bd8;
+    width: 57px;
+    cursor: pointer;
+}
+
+.container a:hover{
+    background-color: #3d7b8b;
+}
